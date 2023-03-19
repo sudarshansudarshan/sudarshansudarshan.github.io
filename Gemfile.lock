@@ -104,6 +104,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     latex-decode (0.4.0)
+    libv8-node (16.10.0.0-arm64-darwin)
     libv8-node (16.10.0.0-x86_64-darwin)
     liquid (4.0.3)
     listen (3.7.1)
@@ -121,6 +122,8 @@ GEM
     minitest (5.16.3)
     multi_xml (0.6.0)
     namae (1.1.1)
+    nokogiri (1.13.8-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.13.8-x86_64-darwin)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -147,6 +150,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  arm64-darwin-22
   x86_64-darwin-21
 
 DEPENDENCIES
@@ -170,4 +174,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.7
+   2.4.8

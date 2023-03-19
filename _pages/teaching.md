@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching 
+title: Teaching 
 permalink: /teaching/
 description: A growing collection of your cool courses.
 nav: true
