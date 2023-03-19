@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a member of faculty at the [Computer Science Department](https://cse.iitrpr.ac.in) of [IIT Ropar](https://www.iitrpr.ac.in/). I am teaching CS522 and CS630 this semester.
+I am a member of faculty at the [Computer Science Department](https://cse.iitrpr.ac.in) of [IIT Ropar](https://www.iitrpr.ac.in/). I am teaching CS101 this semester.
 
 
 
