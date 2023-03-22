@@ -1,0 +1,148 @@
+---
+layout: page
+title: Handbook
+permalink: /handbook/
+toc: true
+---
+
+
+* TOC
+{:toc}
+
+# CS101 Discrete Mathematics and Statistical Foundations 
+
+## Introduction
+
+While industrialisation resulted in the advancement of computing technology, little did people realise the strong link between computer science and disciplines such as economics, finance, market prediction, human behaviour and medical sciences. Computing as a subject is today known for its penetrative influence on almost all walks of sciences and engineering. From partner selection to making it to a fortune 500 company, from predicting markets to understanding the spread of a virus; today’s dynamics of the modern world is best understood through the lens of computation. The course Social Computing is a whirlwind tour into some of the non-trivial applications of computer science, to seemingly unrelated fields of sociology, finance, economics etc. The subject will address and answer the following interesting questions with a computational perspective:
+1. Why do countries fight?
+2. What is common between the algorithms used by a top organization and the deadly covid19?
+3. Why is there a political spectrum of left and right?
+4. From Democracy to amazon reviews, is there a science that is common?
+5. How did a 4 line pseudocode create a trillion dollar industry called Google?
+6. How does Wikipedia work and what are the moral lessons that mankind needs to learn from wikipedia data crunching?
+7. Can more infrastructure turn out detrimental to an organization?
+8. How to get your dream job and use a similar algorithm to find a great life partner?
+
+
+| Sl. No. | Topic | Details |
+| -- | ----- | ------- |
+| 1       | Introduction                                           | The motivation and the modern computational aspects of economics, marketing, HR and business strategies |
+| 2       | Handling Real World Datasets | A hands on approach to crunch data. What to look for and why over and beyond programming? |
+| 3       | Strength of Weak Ties | How to get your dream Job? <br />How to pick a life partner from a big sample space?<br />Why do acquaintances matter more than friends? |
+| 4 | Strong and Weak Relationships | Why are fights inevitable?<br />How do enemies emerge?<br />Why is there a left, right and a center in political parties?<br /> |
+| 5 | Homophily | Life lessons from Big Data Crunching: Watch the company you keep! |
+| 6 | Link Analysis | An idea that led to the emergence of Billion/Trillion Dollar Industries. |
+| 7 | Cascading Behaviour in Networks | How to become a successful leader/politician. A quick formula. |
+| 8 | Power Laws and Rich-Get-Richer Phenomena | Using lessons from computing to grow rich and be successful |
+| 9 | The Small World Effect | The World is Surprinsingly Small and how does one harness its potential? |
+| 10 | Virality | From Marketing to Covid19, what is the science of it? |
+| 11 | Game Theory in Social Computing | The science of video games to the dynamics of human behaviour. Nobel prize winning ideas that changed the world. |
+| 12 | Markets and Strategic Interaction in Networks | How to sell your product in big numbers? |
+| 13 | Markets and Information: 2 Nobel Prize Winning Works | How first and second hand markets work? |
+| 14 | Voting: Understanding Democracy | Voting, Amazon reviews and the emergence of a dictator. The science of it all. |
+| 15 | Collective Intelligence: From Basics to Open Questions | The promising age of Computer Human Interface |
+
+
+
+## Performance Points
+
+There will be performance points assigned to every student using the following rule:
+
+|                                                      |                   |
+| ---------------------------------------------------- | ----------------: |
+| Attendance in theory classes                         |       2 per class |
+| Attendance in lab                                    |         4 per lab |
+| Late for the class/lab (irrespective of the urgency) | -10 per class/lab |
+| Plagiarism/Cheating/Misconduct                       | PP will drop to 0 |
+| Challenge Assignment                                 |                 X |
+
+* If a student misses a lab or class, his/her $PP$ will be uniformly distributed to the rest of the class who were present. For example in a class of 30, if 10 people are absent for a lab session, 40 $PP$ will be distributed to the remaining 20 students. Each student will get $\frac{40}{20}=2$.
+* A student coming late for the class, loses 10 $PP$ and this will be uniformly distributed to all those present in the class.
+* X denotes that it is discretionary. The instructor can provide challenge assignments from time to time.
+* Plagiarism/Cheating/Misconduct will result in the reset of the performance points. It will roll back to 0.
+* If the students are not able to manage 100 $PP$ despite attending all the lectures and labs, the instructor will assign a <u>low on load</u> assignment to fill it to 100.
+* This will be in practice starting from Monday the 22nd August 2022.
+
+
+
+## Evaluation and Grades
+
+Final grades will be calculated based on the following rule:
+$$
+\left({\frac{PP}{100}}*Total\right)+\left( \frac{PP}{8}\right)
+$$
+Where _PP_ stands for _Performance Points_ and _Total_ is the marks total secured from theory, lab and project components.
+
+**Evaluation**
+
+| Type |  |Marks|
+|--|--|--|
+|Theory Internals|Involves theory related grading: quiz and written assignments|10|
+|Theory Externals|Mid term and Final Theory Exam|10 + 25|
+|Lab Internals|Grading based on lab performance and viva voce|10|
+|Lab Externals|Mid Term and Final Lab Exam|10 + 25|
+|Final Project||10|
+
+**Grading Scheme**
+
+| Marks     | Grade |
+| --------- | ----- |
+| [90, 100] | A     |
+| [80, 89]  | A-    |
+| [70, 79]  | B     |
+| [60, 69]  | B-    |
+| [50, 59]  | C     |
+| [40, 49]  | C-    |
+| [30, 39]  | D     |
+| [0, 29]   | F     |
+
+
+
+**Note:** The grading scheme will be absolute and not relative. Based on the overall performance of the class, the course instructor may decide to change the grade letters for the benefit of students, in the sense that the grade letters stated above are the lower bounds and one may secure better grades than what is stated.
+
+## Theory Assignments
+Theory assignments will involve writeups that are mostly straight forward and will be indicative of the difficulty in the mid term and final exams. Questions for the final exam will be consequential concepts from the assignments. It would help if assignments are taken seriously for the student to secure good marks in the exams.
+
+## Lab Assignments
+Lab assignments will involve you to work on programming based questions. These can be take home tests or in lab tests. The difficulty level is indicative of the final lab exam questions. It would help if the students take them seriously. The evaluation of lab assignments may involve a strong viva voce component.
+
+## Project
+The project will start after the first few weeks of the course. Just before the commencement of the mid term exams, the student will be asked to pick his project from a list of projects that will be given as a handout. The student is also free to propose their own project, provided it is vetted by the instructor. Every project will be executed by a team of at most 2 people. Evaluation of the project will be based on the report and presentation.
+
+
+
+## FAQ
+
+**What if I am unable to make it to a class?**
+It is important that you dont miss the class. We expect 100% attendance and we incentivise you to come to the class by providing you with the performance points.
+
+**I wasn't keeping well and I couldn't manage to attend the class. Can I please not lose my _PP_ ?**
+This is a rule across all students and we will not be able to relax it for one student. This rule is in the interest of incentivizing sincerity. One can secure 12.5 marks just through _PPs_. It is important that you dont miss it. If you are very consistent and missed less than 5% classes, we can compensate it with an extra assignment. This compensation is completely left to the discretion of the instructor.
+
+**The entire class would request for an off for a genuine reason. Is this possible?**
+We understand, there are situations and occasions we may want to take off. In that case, the class should contact the class representative and the class representative should, after discussing with the instructor, send out an email to cs522@iitrpr.ac.in, the details on cancellation of an upcoming class and the post/pre ponement of the same, giving 24 hrs time for the entire class to raise objections, if any. If there are no objections, the class representative will send out a google calendar request for the special class inviting cs522 students and the instructor. This process should happen atleast 7 days in advance to the class cancellation. Class cancellation requests not emanating atleast 7 days in advance and/or not coming through the class representative, will attract a PP penalty of 5 points.
+
+
+**How do I give my best in the course**
+Please attend all the classes and labs without fail. Effort required to prepare for the exams is reduced many folds, if one is regular to the classes.
+
+**How are assignments evaluated? Can I collaborate**
+You are free to talk to your friends to achieve conceptual clarity, but you shouldn't show your code or seek anyone's help to write your code. In case we find you violate the honor code, we may reset your _PP_ to 0.
+
+**I understand we should be on time for the class. How many minutes of delay is allowed?**
+We expect you to be in the class before the class commences. Although, there is every possibility you will lose your _PP_ points, the teacher may use his discretion to allow students upto 120 seconds. Anyone entering the class late will attract -10 _PP_.
+
+**Can we share our _PP_ with others**
+As agreed, you can distribute your _PP_ to others, if you secure more than 100 _PP_.
+
+**What is the maximum _PP_ one can accumulate?**
+One can accumulate as much _PP_ as it is possible, but anything greater than 100, will not count towards your marks.
+
+**My friend told me that he will share his _PP_ but is denying it in the last minute. Can I complain to the instructor?**
+The promises on exchanging _PPs_ is completely between the students and the instructor will not be involved in it, in anyway.
+
+**How do I share my feedback with the instructor?**
+We have a link to a google form which can be used to share your feedback with the instructor. This will be an anonymous form.
+
+**What is the prescribed textbook for the course?**
+The prescribed textbook for the course is _Networks Crowds and Markets_. A pdf version of this book is available for online download. The instructor will provide a roadmap styled notes for the students.
