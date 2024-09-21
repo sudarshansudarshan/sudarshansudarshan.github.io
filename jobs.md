@@ -1,3 +1,10 @@
+---
+layout: page
+title: Job Opportunities at IIT Ropar
+description: Open positions for the Minor in AI Program at IIT Ropar
+permalink: /jobs/
+---
+
 # Job Title: Curriculum Scientist
 **Location:** IIT Ropar, Punjab, India  
 **Salary:** INR 1.2 Lakhs per Month  
