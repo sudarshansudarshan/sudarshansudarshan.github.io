@@ -7,7 +7,7 @@ permalink: /jobs/
 
 # Job Title: Curriculum Scientist
 **Location:** IIT Ropar, Punjab, India  
-**Salary:** INR 1.2 Lakhs per Month  
+**Salary:** INR 1.2 Lakhs per Monthh  
 **Working With:** Prof. Sudarshan (Head - AI Minor Initiative, IIT Ropar)  
 **Project:** Minor in AI Program  
 
