@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Job Opportunities under Prof. Sudarshan (For queries email: sudarshan@iitrpr.ac.in)
+title: Current Job Opportunities under Prof. Sudarshan 
 description: Open positions for the Minor in AI Program at IIT Ropar
 permalink: /jobs/
 ---
+(For queries email: sudarshan@iitrpr.ac.in)
 
 # Job Title: Curriculum Scientist
 **Location:** IIT Ropar, Punjab, India  
