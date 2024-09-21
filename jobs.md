@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Job Opportunities at IIT Ropar under Prof. Sudarshan
+title: Job Opportunities under Prof. Sudarshan (For queries email: sudarshan@iitrpr.ac.in)
 description: Open positions for the Minor in AI Program at IIT Ropar
 permalink: /jobs/
 ---
