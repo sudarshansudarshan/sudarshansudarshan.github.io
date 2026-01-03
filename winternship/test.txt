@@ -1,0 +1,8 @@
+Configuration file: /Users/sudarshaniyengar/Desktop/winternship/_config.yml
+            Source: /Users/sudarshaniyengar/Desktop/winternship
+       Destination: /Users/sudarshaniyengar/Desktop/winternship/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.126 seconds.
+ Auto-regeneration: enabled for '/Users/sudarshaniyengar/Desktop/winternship'
