@@ -73,9 +73,8 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.3)
-  jekyll-feed (~> 0.17)
   minima (~> 2.5)
-  webrick (~> 1.8)
+  webrick
 
 BUNDLED WITH
    2.4.17
