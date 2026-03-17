@@ -1,0 +1,18 @@
+{
+  "name": "chatengine-mern",
+  "version": "1.0.0",
+  "description": "Chat Engine - MERN Stack",
+  "main": "server/server.js",
+  "scripts": {
+    "client": "cd web-client && npm run dev",
+    "server": "cd server && node server.js",
+    "server:watch": "cd server && nodemon server.js",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "install-all": "npm install && cd server && npm install && cd ../web-client && npm install"
+  },
+  "keywords": ["chat","mern","openclaw","google-auth"],
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
